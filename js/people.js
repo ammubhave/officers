@@ -1,6 +1,96 @@
 // Contains personal details for people by kerberos.
 
 var people = {
+  "ambhave": {
+    name: "Amol",
+    full_name: "Amol Bhave",
+    email: "ambhave@mit.edu",
+    photo: "photo.jpg",
+  },
+  "rgulland": {
+    name: "Ryan",
+    full_name: "Ryan Gulland",
+    email: "rgulland@mit.edu",
+    photo: "photo.jpg",
+  },
+  "amohr": {
+    name: "Alan",
+    full_name: "Alan Mohr",
+    email: "amohr@mit.edu",
+    photo: "photo.jpg",
+  },
+  "mecunha": {
+    name: "Elaine",
+    full_name: "Mary Cunha",
+    email: "mecunha@mit.edu",
+    photo: "photo.jpg",
+  },
+  "aoriole": {
+    name: "Alexis",
+    full_name: "Alexis Oriole",
+    email: "aoriole@mit.edu",
+    photo: "photo.jpg",
+  },
+  "cstubbe": {
+    name: "Camille",
+    full_name: "Camille Stubbe",
+    email: "cstubbe@mit.edu",
+    photo: "photo.jpg",
+  },
+  "kkim17": {
+    name: "Kristina",
+    full_name: "Kristina Kim",
+    email: "kkim17@mit.edu",
+    photo: "photo.jpg",
+  },
+  "yji": {
+    name: "Yuge",
+    full_name: "Yuge Ji",
+    email: "yji@mit.edu",
+    photo: "photo.jpg",
+  },
+  "irena_m": {
+    name: "Irena",
+    full_name: "Irena Martinez",
+    email: "irena_m@mit.edu",
+    photo: "photo.jpg",
+  },
+  "edenmark": {
+    name: "Evan",
+    full_name: "Evan Denmark",
+    email: "edenmark@mit.edu",
+    photo: "photo.jpg",
+  },
+  "loctrinh": {
+    name: "Loc",
+    full_name: "Loc Trinh",
+    email: "loctrinh@mit.edu",
+    photo: "photo.jpg",
+  },
+  "evancb": {
+    name: "Evan",
+    full_name: "Evan Brown",
+    email: "evancb@mit.edu",
+    photo: "photo.jpg",
+  },
+  "chauhans": {
+    name: "Shivani",
+    full_name: "Shivani Chauhan",
+    email: "chauhans@mit.edu",
+    photo: "photo.jpg",
+  },
+  "snvd": {
+    name: "Sarah",
+    full_name: "Sarah Van Dierdonck",
+    email: "snvd@mit.edu",
+    photo: "photo.jpg",
+  },
+  "aliciacm": {
+    name: "Alicia",
+    full_name: "Alicia Cabrero-Mino",
+    email: "aliciacm@mit.edu",
+    photo: "photo.jpg",
+  },
   "larsj" : {
     name: "Lars",
     full_name: "Lars Johnson",
